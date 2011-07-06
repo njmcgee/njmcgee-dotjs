@@ -1,0 +1,1 @@
+$('.oy8Mbf').remove();
